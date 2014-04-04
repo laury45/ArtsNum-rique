@@ -1,0 +1,5 @@
+Pour pouvoir visualiser notre site avec des mises à jours régulière, il faut installer le plugin feedwordpress puis entrer l'URL : 
+http://pipes.yahoo.com/pipes/pipe.run?_id=124086a83872a13cfa7193153bc97a6f&_render=rss 
+dans les Syndications puis l'ajouter. 
+
+De plus, il faut également créer une base de données avec phpMyAdmin et y inclure le fichier projet.sql. 
